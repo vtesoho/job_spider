@@ -11,7 +11,7 @@ click==6.7
 constantly==15.1.0
 cryptography==2.1.4
 cssselect==1.0.1
-Django==2.0
+Django==2.2.24
 django-blog-zinnia==0.19
 django-contrib-comments==1.8.0
 django-js-asset==0.1.1
